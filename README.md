@@ -1,20 +1,7 @@
 # Statistics-Functions
-
-# CLI Statistical Analysis Tool
-
-A lightweight, interactive command-line interface (CLI) application for calculating comprehensive statistical metrics across multiple datasets. Built with Python and `numpy`, this tool allows users to input multiple data lists and select from a variety of standard statistical operations, returning formatted results in real-time.
+Command-line interface application for calculating statistical metrics across multiple datasets. Built with Python and `numpy`, this tool allows users to input multiple data lists and select from a variety of standard statistical operations, returning formatted results in real-time.
 
 ---
-
-## Features
-
-* **Interactive Menu System:** Dynamically build your calculation sequence by chaining together desired statistical operations.
-* **Multi-Dataset Support:** Input and compare multiple lists of data simultaneously.
-* **Z-Score Subsystem:** Calculate Z-scores for discrete inputs based on user-provided mean and standard deviation values.
-* **Robust Error Handling:** Includes built-in checks for non-numeric inputs, mismatched list lengths, and invalid menu selections.
-
----
-
 ## Dependencies
 
 This script relies on standard Python libraries and NumPy. Ensure you have the following installed in your environment:
