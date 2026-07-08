@@ -1,5 +1,5 @@
 # Statistics-Functions
-```markdown
+
 # CLI Statistical Analysis Tool
 
 A lightweight, interactive command-line interface (CLI) application for calculating comprehensive statistical metrics across multiple datasets. Built with Python and `numpy`, this tool allows users to input multiple data lists and select from a variety of standard statistical operations, returning formatted results in real-time.
